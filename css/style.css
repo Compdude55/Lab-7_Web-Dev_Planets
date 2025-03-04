@@ -1,5 +1,6 @@
 table, th, td {
 	border: 2px solid;
+	color: darkblue;
 }
 
 table {
@@ -12,6 +13,10 @@ th, td {
 	height: 20px;
 	padding: 15px;
 	text-align: center;
+}
+
+th {
+background: pink;
 }
 
 tr:nth-child(even) {background-color: silver;}
