@@ -15,8 +15,4 @@ th, td {
 	text-align: center;
 }
 
-th {
-background: pink;
-}
-
 tr:nth-child(even) {background-color: silver;}
