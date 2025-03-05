@@ -17,5 +17,5 @@ th, td {
 tr:nth-child(even) {background-color: silver;}
 
 th {
-	background: pink;
+	background-color: pink;
 }
